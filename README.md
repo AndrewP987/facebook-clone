@@ -12,7 +12,7 @@ When a client starts a session, the Firebase is notified and any posts or change
 
 FrontEnd: 
 
-Each componenet is made to fit the original Facebook website. Everything in the page is made responsive for all types of screens as well as having certain animations/traits such as hover, click, and other Tailwind items. 
+Each component is made to fit the original Facebook website. Everything in the page is made responsive for all types of screens as well as having certain animations/traits such as hover, click, and other Tailwind items. 
 
 Screenshots of the app are attached. 
 
