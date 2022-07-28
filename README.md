@@ -3,6 +3,8 @@ Facebook Clone is a frontend and backend app replicating the original facebook.
 
 Technologies & languages used: NextAuth.js, React.js, Tailwind CSS, Node.js, JSON, and Firebase.
 
+VIDEOS BELOW
+
 BackEnd: 
 
 NextAuth is used to login in users through the users Facebook client_id and client_secret. To use NextAuth in this project, make an account at "Meta for Developers" and create an app. From there, you'll receive a FACEBOOK_CLIENT_ID & FACEBOOK_CLIENT_SECRET. Store those in a .env file so they are protected. 
@@ -20,8 +22,9 @@ Screenshots of the app are attached.
 Above is the responsive view for the small, medium, and large screens. 
 
 
-https://user-images.githubusercontent.com/71080514/181616027-c65da381-7dee-4314-9f88-e5aa90d1da2f.mov
 
+https://user-images.githubusercontent.com/71080514/181616872-34a28176-49ab-430d-a2d7-af790ad2d400.mov
+https://user-images.githubusercontent.com/71080514/181617601-feee6dba-e6bd-4f35-9e18-7e69e3fbdea3.mov
 
 
 
